@@ -4,7 +4,7 @@ import random
 from re import fullmatch
 import smtplib
 load_dotenv(find_dotenv())
-#functional decomposition and object oriented
+# object oriented
 
 
 class OTPService:
